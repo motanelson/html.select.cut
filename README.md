@@ -1,2 +1,1 @@
-# translate.english.spain
-translate.english.spain dicionary from .english&lt;>spain
+download a page and cut the need sector
